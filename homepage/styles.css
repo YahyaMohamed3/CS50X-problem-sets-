@@ -1,0 +1,114 @@
+h1 {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 48px;
+    color: #ffff;
+    -webkit-box-reflect: below 1px linear-gradient(transparent, #0002)
+    ;
+    line-height: 0.70em;
+    outline: none;
+}
+
+body{
+  background-color: #07252d;
+  color:#ffffff;
+  font-family: "Poppins", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+section{
+  display: grid;
+  place-items: center;
+  align-content: center;
+  min-height: 80vh;
+}
+.a{
+  text-align: center;
+}
+
+.hidden{
+  opacity: 0;
+  filter: blur(5px);
+  transform: translateX(-100%);
+  transition: all 1.5s;
+}
+
+.show{
+  opacity: 1;
+  filter: blur(0);
+  transform: translateX(0);
+}
+
+.navbar {
+  --bs-navbar-padding-x: 0;
+  --bs-navbar-padding-y: 0.5rem;
+  --bs-navbar-color: #f8f9fa;
+  --bs-navbar-hover-color: #f8f9fa;
+  --bs-navbar-disabled-color: #f8f9fa;
+  --bs-navbar-active-color: #f8f9fa;
+  --bs-navbar-brand-padding-y: 0.3125rem;
+  --bs-navbar-brand-margin-end: 1rem;
+  --bs-navbar-brand-font-size: 1.25rem;
+  --bs-navbar-brand-color: #ffffff;
+  --bs-navbar-brand-hover-color: #ffffff;
+  --bs-navbar-nav-link-padding-x: 0.5rem;
+  --bs-navbar-toggler-padding-y: 0.25rem;
+  --bs-navbar-toggler-padding-x: 0.75rem;
+  --bs-navbar-toggler-font-size: 1.25rem;
+  --bs-navbar-toggler-icon-bg: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e);
+  --bs-navbar-toggler-border-color: #ffffff;
+  --bs-navbar-toggler-border-radius: 0.375rem;
+  --bs-navbar-toggler-focus-width: 0.25rem;
+  --bs-navbar-toggler-transition: box-shadow 0.15s ease-in-out;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--bs-navbar-padding-y) var(--bs-navbar-padding-x);
+}
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  background-image: var(--bs-navbar-toggler-icon-bg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  color: #fff;
+}
+.navbar-toggler {
+  padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x);
+  font-size: var(--bs-navbar-toggler-font-size);
+  line-height: 1;
+  color: #fff;
+  background-color: #ffffff;
+  border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);
+  border-radius: var(--bs-navbar-toggler-border-radius);
+  transition: var(--bs-navbar-toggler-transition);
+}
+
+.b{
+  font-family: 'Helvetica', sans-serif;
+    font-size: 48px;
+    color: #ffff;
+    -webkit-box-reflect: below 1px linear-gradient(transparent, #0002)
+    ;
+    line-height: 0.70em;
+    outline: none;
+    text-align:center
+
+}
+
+#c{
+  text-align: center;
+}
+
+#h{
+  min-height:40vh;
+}
+#z{
+  min-height:5vh;
+  text-align: center;
+
+}

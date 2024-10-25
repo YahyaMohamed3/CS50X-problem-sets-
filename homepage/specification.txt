@@ -1,0 +1,30 @@
+I chose to use bootsrap's container so the text doesn't take up the whole width of the screen
+and also used bootstrap to add a navagtion bar
+I used java script to make the homepage animation whenever the user scrolls
+and used it also to make the contact form interactive.
+
+For CSS I used
+font-size
+padding
+line-height
+border
+display
+font-family
+color
+background-color
+place-items
+align-content
+min-height
+
+The html the ten tags that I used are
+<p> ,
+<link> ,
+<script>,
+ <nav>, <div>
+ , <a> , <span> ,
+  <button>, <section>,
+  <h1>, <h3>, <h2>, <hr>,
+  <label>, <input>,<textarea>, <container>.
+
+
+
