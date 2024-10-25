@@ -1,0 +1,8 @@
+If the average energy is high then it suggests that the listener enjoys energetic songs.
+If the average valence is high it means that the listener likes happy and cheerful type of music
+If the average danceability is high it most likley means that this listener's taste is inclined towards songs with a strong and danceable ryhtms and
+probably likes dancing.
+
+The way this aura has been calculated might not be very representative of the listener because the aura is purely calculated on the musical attributes,
+not taking into account what level does this song connect to the listener or how this song affects the listener. So, the way this aura is calculated is just
+a generalization based on musical attributes.
