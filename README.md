@@ -1,8 +1,6 @@
 # CS50x Projects Repository
 
---------------------
 ## Project Structure
---------------------
 
 ### Problem Set Solutions
 
