@@ -84,3 +84,5 @@
 - Implements a substitution cipher for text encryption.
 
 ---
+
+Thank you for checking out my CS50X problem sets and projects ! :)
